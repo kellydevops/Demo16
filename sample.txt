@@ -1,7 +1,2 @@
 Welcome to Git
 mcncsd
-csc sd
-linde4
-line5
-this is line4
-this is line5
